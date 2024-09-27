@@ -126,7 +126,7 @@
           data-aos="fade-up"
           data-aos-delay="600"
         >
-          Rendi Ananda
+          Rendi Augusta
         </p>
         <p
           class="font-merriweather text-center text-md max-w-xs mx-auto"
