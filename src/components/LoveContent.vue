@@ -68,7 +68,7 @@
           Putri pertama dari Bapak Jowahir Ali & Ibu Kurniasih
         </p>
         <a
-          href="https://instagram.com/rollie"
+          href="https://instagram.com/rolliesofiahakim"
           target="_blank"
           class="flex items-center justify-center mt-2 text-lg text-pink-500 hover:text-blue-700"
           data-aos="fade-up"
@@ -133,10 +133,10 @@
           data-aos="fade-up"
           data-aos-delay="800"
         >
-          Putra kedua dari Bapak Hari Saputra & Ibu Leni
+          Putra pertama dari Bapak D. Budi Yuwono & Ibu Dian Anggraini
         </p>
         <a
-          href="https://instagram.com/rendi"
+          href="https://instagram.com/rendygst"
           target="_blank"
           class="flex items-center justify-center mt-2 text-lg text-pink-500 hover:text-blue-700"
           data-aos="fade-up"
