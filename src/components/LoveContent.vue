@@ -114,7 +114,7 @@
           data-aos="fade-up"
           data-aos-delay="400"
         >
-          Rendi
+          Reandi
         </h2>
       </div>
       <div
@@ -126,7 +126,7 @@
           data-aos="fade-up"
           data-aos-delay="600"
         >
-          Rendi Ananda
+          Reandi Augusta
         </p>
         <p
           class="font-merriweather text-center text-md max-w-xs mx-auto"

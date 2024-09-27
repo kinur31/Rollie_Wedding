@@ -20,7 +20,7 @@
         data-aos="fade-up"
         data-aos-delay="200"
       >
-        Rollie & Rendi
+        Rollie & Reandi
       </h2>
       <p
         class="text-lg md:text-2xl mb-4"
