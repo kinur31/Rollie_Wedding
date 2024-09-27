@@ -25,7 +25,7 @@
           :icon="['fas', 'calendar']"
           class="text-[#A46F64] mr-2"
         />
-        <span class="font-merriweather text-md">Tanggal: 06 Desember 2024</span>
+        <span class="font-merriweather text-md">Tanggal: 06 Oktober 2024</span>
       </div>
 
       <div
@@ -93,7 +93,7 @@
           :icon="['fas', 'calendar']"
           class="text-[#A46F64] mr-2"
         />
-        <span class="font-merriweather text-md">Tanggal: 06 Desember 2024</span>
+        <span class="font-merriweather text-md">Tanggal: 06 Oktober 2024</span>
       </div>
 
       <div

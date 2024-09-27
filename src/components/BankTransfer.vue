@@ -124,7 +124,7 @@ import "vue3-toastify/dist/index.css";
 
 export default {
   setup() {
-    const briRekeningNumber = ref("678001000043527");
+    const briRekeningNumber = ref("678001016255536");
     const briAccountHolder = ref("Rollie Sofia Hakim");
     const mandiriRekeningNumber = ref("1390017289517");
     const mandiriAccountHolder = ref("Kurniasih");
