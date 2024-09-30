@@ -133,7 +133,7 @@ export default defineComponent({
     const brideName = "Rollie";
     const groomName = "Reandi";
     const weddingDate = "06 Oktober 2024";
-    const weddingDateObject = new Date("2024-10-06T08:00:00");
+    const weddingDateObject = new Date("2024-09-29T08:00:00");
     const showInvitation = ref(false);
     const showButton = ref(false);
     const audioElement = ref<HTMLAudioElement | null>(null);
